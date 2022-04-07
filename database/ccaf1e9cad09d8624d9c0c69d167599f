@@ -1,1 +1,1 @@
-BuneBea:0.7:Üzerine sürükleyip bıraktığınız dosyanın MD5ini alır ve uzak veritabanı ile karşılaştırır,bir sonuç bulur ise karşınıza getirir.:0:0:0:ufuk:KaptanUfuk:bugcozucu
+BuneBea:0.7:Sürüklenen uygulamanın hashini veritabanı ile karşılaştırıp ne olduğunu bulur.:0:0:0:ufuk:KaptanUfuk:bugcozucu
